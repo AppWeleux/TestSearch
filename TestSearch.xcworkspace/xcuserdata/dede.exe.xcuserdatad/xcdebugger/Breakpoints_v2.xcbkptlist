@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D4CAB815-C789-4A3B-83A1-41B162D45293"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "895FEF10-0506-4C3B-8B27-E3605785EB01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestSearch/GamesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "filterTableView(ind:text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "895FEF10-0506-4C3B-8B27-E3605785EB01 - 6613718a22afd4f0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  uuid = "895FEF10-0506-4C3B-8B27-E3605785EB01 - 3b54a9a231e1cc74"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TestSearch.GamesModel) -&gt; Swift.Bool in TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C4090E3-DFCA-4F3E-AE82-2EA0D6EE77F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestSearch/GamesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "filterTableView(ind:text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2C4090E3-DFCA-4F3E-AE82-2EA0D6EE77F5 - 6613718a22afd4f0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "790">
+               </Location>
+               <Location
+                  uuid = "2C4090E3-DFCA-4F3E-AE82-2EA0D6EE77F5 - 27fb3a96b23f1a77"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (TestSearch.GamesModel) -&gt; Swift.Bool in TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B8CF217-89CC-4678-8B76-1482BE7132B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestSearch/GamesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "filterTableView(ind:text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B8CF217-89CC-4678-8B76-1482BE7132B5 - 6613718a22afd4f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "501">
+               </Location>
+               <Location
+                  uuid = "1B8CF217-89CC-4678-8B76-1482BE7132B5 - 27fb3a96b23f1a77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (TestSearch.GamesModel) -&gt; Swift.Bool in TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8976485-ADD7-49E1-B7D0-C2E12251BA1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestSearch/GamesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "filterTableView(ind:text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8976485-ADD7-49E1-B7D0-C2E12251BA1A - 6613718a22afd4f0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  uuid = "A8976485-ADD7-49E1-B7D0-C2E12251BA1A - 3b54a9a231e1cc74"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TestSearch.GamesModel) -&gt; Swift.Bool in TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9890AA96-806D-4722-84E5-ADEFF09AED50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestSearch/GamesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "filterTableView(ind:text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9890AA96-806D-4722-84E5-ADEFF09AED50 - 6613718a22afd4f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "879">
+               </Location>
+               <Location
+                  uuid = "9890AA96-806D-4722-84E5-ADEFF09AED50 - 26194453474a076"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (TestSearch.GamesModel) -&gt; Swift.Bool in TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3572CCA9-CBF4-4DAF-9729-3F4E9027BF0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestSearch/GamesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "filterTableView(ind:text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3572CCA9-CBF4-4DAF-9729-3F4E9027BF0D - 6613718a22afd4f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "1257">
+               </Location>
+               <Location
+                  uuid = "3572CCA9-CBF4-4DAF-9729-3F4E9027BF0D - 6e946529b6cdce79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (TestSearch.GamesModel) -&gt; Swift.Bool in TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDA04B58-6B2A-43FF-97B2-6D323711A5AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestSearch/GamesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "filterTableView(ind:text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDA04B58-6B2A-43FF-97B2-6D323711A5AA - 6613718a22afd4f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "1635">
+               </Location>
+               <Location
+                  uuid = "EDA04B58-6B2A-43FF-97B2-6D323711A5AA - 493af61c371b1478"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 (TestSearch.GamesModel) -&gt; Swift.Bool in TestSearch.GamesTableViewController.filterTableView(ind: Swift.Int, text: Swift.String) -&gt; ()"
+                  moduleName = "TestSearch"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dede.exe/Downloads/TestSearch/TestSearch/GamesTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C137825-7468-4B55-9805-F2E7FBA140B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestSearch/GamesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "filterTableView(ind:text:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B71739DF-1379-4200-9FD2-57BC89D5A1D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestSearch/GamesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
